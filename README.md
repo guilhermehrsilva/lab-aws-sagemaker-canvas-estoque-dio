@@ -35,7 +35,7 @@ Realizei uma simulação de previsão para um item específico (`Single Predicti
 
 * **Análise:** O modelo previu uma tendência de queda na demanda para o item selecionado nos dias subsequentes (08/02 a 09/02), sugerindo uma gestão de estoque conservadora para este período.
 
-## 5. (Conclusão)
+## 5. Conclusão
 A utilização do SageMaker Canvas permitiu criar um modelo preditivo robusto sem a necessidade de codificação complexa, acelerando a entrega de valor para a área de negócios. A precisão obtida (wQL de 0.060) demonstra que a ferramenta é viável para aplicações reais de planejamento de demanda.
 
 ---
