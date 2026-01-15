@@ -22,7 +22,7 @@ Configurei o SageMaker Canvas para um problema de *Time Series Forecasting*, def
 ### 3. Análise de Performance (Metrics)
 O modelo alcançou métricas excelentes, indicando alta confiabilidade nas previsões:
 
-![Print das Métricas](imagens/Captura de tela_15-1-2026_102232_sqvguqgzwcpzqtz.studio.us-east-2.sagemaker.aws.jpeg)
+![Print das Métricas](imagens/metricas.jpeg)
 
 * **Avg. wQL (Weighted Quantile Loss):** 0.060 (Quanto menor, melhor. Este valor indica alta precisão).
 * **MAPE (Mean Absolute Percentage Error):** 0.148 (A margem de erro média do modelo é de ~14%).
