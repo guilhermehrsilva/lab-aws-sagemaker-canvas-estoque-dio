@@ -31,7 +31,7 @@ O modelo alcançou métricas excelentes, indicando alta confiabilidade nas previ
 ### 4. Resultados e Previsões (Predict)
 Realizei uma simulação de previsão para um item específico (`Single Prediction`). O gráfico abaixo demonstra os cenários gerados pelo modelo (P10, P50 e P90):
 
-![Print do Gráfico](caminho_para_sua_imagem_do_grafico.png)
+![Print do Gráfico](imagens/grafico.png)
 
 * **Análise:** O modelo previu uma tendência de queda na demanda para o item selecionado nos dias subsequentes (08/02 a 09/02), sugerindo uma gestão de estoque conservadora para este período.
 
